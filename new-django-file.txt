@@ -1,2 +1,3 @@
 NEw file created from browser file1
 Changes made from branch first 2
+branch3 third
